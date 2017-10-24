@@ -1,11 +1,11 @@
-title: Starter Template
-author: Panoramedia
-email: panoramedia@gmail.com
+title: Modernize This!
+author: Alexia
+email: olydevops@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  A Site Starter Materialize Templates for Jekyll
+  A space to support gov, nonprofit, and social enterprise IT shops by providing realistic ideas to help modernize technology and the teams that build it
 
-twitter_username: macrod68
-github_username:  macrod68
+twitter_username: TypeErr0r
+github_username:  alexiasa
 
 sass:
     style: compressed

@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Carousel
-permalink: /carousel/
+
 ---
 
 <h1 class="page-title">{{ page.title | escape }}</h1>

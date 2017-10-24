@@ -2,4 +2,4 @@
 layout: home
 ---
 
-A Site Starter Materialize Templates for Jekyll.
+Supporting government, nonprofit, and social enterprise IT shops looking to modernize technical practices and bring culture along for the ride
